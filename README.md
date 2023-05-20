@@ -20,4 +20,4 @@ http://download.aida64.com/aida64engineer670.exe
 
 http://download.aida64.com/aida64engineer670.zip
 
-以上是重要的三个版本，zip格式是便携版，exe格式是安装版
+如上有三个版本，可根据需要下载。zip格式是便携版，exe格式是安装版
